@@ -7,7 +7,7 @@ h3><b><i>🏆 Github Statistics :</i></b></h3>
  <img src="https://profile-counter.glitch.me/James404-cyber/count.svg" />
 </p>
 
-![20200808_160757](https://raw.githubusercontent.com/James404-cyber/James404-cyber/main/Screenshot_20210201-204155_Termux.jpg)
+
 
 ![20200808_160757](https://raw.githubusercontent.com/James404-cyber/James404-cyber/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
